@@ -77,13 +77,17 @@ Kleine Wiederholung:
 Wir haben bei Zahlen gelernt, daß man sie addieren bzw zusammenrechnen kann, tippe z.B.:
 
 `2 + 3`
+
 Was kommt raus?
 
 Wir konnten auch Variablen zusammenrechnen, tippe z.B.:
 
 `a = 3`
+
 `b = 5`
+
 `a + b`
+
 Was kommt raus?
 
 Meinst Du, man kann auch Zeichenketten "zusammenrechnen"?
