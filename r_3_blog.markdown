@@ -64,3 +64,21 @@ bin/rails generate controller Articles index --skip-routes
 ```
 
 Du siehst, unter anderem wird ein Controller für Artikel erzeugt.
+
+Schau doch mal diesen an, was drin steht:
+`app/controllers/articles_controller.rb`
+
+Was für eine Methode wurde eingefügt?
+
+Wenn Du die Ausgabe ändern möchtest, erstelle folgende Datei:
+
+`app/views/articles/index.html.erb`
+
+Füge mal folgende Zeile ein:
+
+```
+<h1>Hallo mein Freund!</h1>
+```
+
+Jetzt rufe mal `http://localhost:3000/articles` im Browser auf.
+Was siehst Du?
